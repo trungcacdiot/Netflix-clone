@@ -1,7 +1,11 @@
 * {
   margin: 0px;
+  padding: 0px;
 }
 
-.App{
+.App {
   background-color: #111;
+}
+body {
+  margin-top: -30px;
 }
