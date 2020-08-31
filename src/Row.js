@@ -31,7 +31,7 @@ function Row({ title, fetchUrl, isLargeRow }) {
     if (trailerUrl) {
       setTrailerUrl("");
     } else {
-      setTrailerUrl("XtMThy8QKqU&t=8400s");
+      setTrailerUrl("4GnVDPD01as");
       // movieTrailer(movie?.name || "")
       //   .then((url) => {
       //     const urlParams = new URLSearchParams(new URL(url).search);
